@@ -1,0 +1,15 @@
+# ninja log v5
+4	83	6938634146267455	CMakeFiles/Daniklab2.dir/task_one.c.obj	e757c7be10cc7100
+83	198	6938634147390866	Daniklab2.exe	764bae5b5f16f6ca
+3	247	6938632218991164	CMakeFiles/Daniklab2.dir/main.c.obj	b4cdb1da62926507
+9	269	6938591640379411	CMakeFiles/Daniklab2.dir/goodinputs.c.obj	875061ecb12b460f
+3	95	6938605461895739	CMakeFiles/Daniklab2.dir/task_two.c.obj	964f9ce6dc474d36
+7	134	6938623794210674	CMakeFiles/Daniklab2.dir/task_three.c.obj	4f3ad2149dcbe311
+14	215	6938639596113140	CMakeFiles/Daniklab2.dir/menu.c.obj	353a582374f3013f
+5	216	6938639596113140	CMakeFiles/Daniklab2.dir/main.c.obj	b4cdb1da62926507
+216	480	6938639598686919	Daniklab2.exe	e17422f4b5559c6
+5	168	6938640420892055	CMakeFiles/Daniklab2.dir/task_one.c.obj	e757c7be10cc7100
+169	389	6938640423020207	Daniklab2.exe	e17422f4b5559c6
+5	171	6938641083484224	CMakeFiles/Daniklab2.dir/task_one.c.obj	e757c7be10cc7100
+13	195	6938641083717185	CMakeFiles/Daniklab2.dir/task_two.c.obj	964f9ce6dc474d36
+195	463	6938641086321441	Daniklab2.exe	e17422f4b5559c6

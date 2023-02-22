@@ -1,0 +1,2 @@
+int goodScanfInt();
+int goodScanfFloat();

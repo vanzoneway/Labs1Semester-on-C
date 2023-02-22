@@ -1,0 +1,3 @@
+﻿  Tasks.c
+Tasks.obj : error LNK2005: main уже определен в HelpingFunctions.obj
+D:\AllLabs\Lab2\x64\Debug\Lab2.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более

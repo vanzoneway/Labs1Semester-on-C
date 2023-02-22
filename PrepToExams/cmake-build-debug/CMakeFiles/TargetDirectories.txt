@@ -1,0 +1,3 @@
+D:/AllLabs/PrepToExams/cmake-build-debug/CMakeFiles/PrepToExams.dir
+D:/AllLabs/PrepToExams/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/AllLabs/PrepToExams/cmake-build-debug/CMakeFiles/rebuild_cache.dir

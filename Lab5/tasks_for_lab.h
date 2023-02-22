@@ -1,0 +1,10 @@
+void doArrayInt(int** array,int* size);
+void printMenu();
+void doMatrixInt(int*** table,int* size);
+void do_matrix_for_third_task(int*** table,int* size);
+void printMatrixInt(int** table, int size);
+void do_array_for_first_task(int** array);
+void printArrayInt(int* array, int size);
+void one_one();
+void two_one();
+void three_one();

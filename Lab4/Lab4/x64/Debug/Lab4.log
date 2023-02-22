@@ -1,0 +1,6 @@
+﻿  Tasks.c
+D:\AllLabs\Lab4\Lab4\Tasks.c(10,8): warning C4013: time: нет определения; предполагается "extern" с возвратом типа "int"
+D:\AllLabs\Lab4\Lab4\Tasks.c(18,49): warning C4133: =: несовместимые типы - из "int **" в "float **"
+D:\AllLabs\Lab4\Lab4\Tasks.c(20,51): warning C4133: =: несовместимые типы - из "int *" в "float *"
+D:\AllLabs\Lab4\Lab4\Tasks.c(25,26): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  Lab4.vcxproj -> D:\AllLabs\Lab4\x64\Debug\Lab4.exe

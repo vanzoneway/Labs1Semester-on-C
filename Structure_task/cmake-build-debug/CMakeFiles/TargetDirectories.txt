@@ -1,0 +1,3 @@
+D:/AllLabs/Structure_task/cmake-build-debug/CMakeFiles/Structure_task.dir
+D:/AllLabs/Structure_task/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/AllLabs/Structure_task/cmake-build-debug/CMakeFiles/rebuild_cache.dir

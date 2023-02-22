@@ -1,0 +1,3 @@
+D:/AllLabs/Daniklab2/cmake-build-debug/CMakeFiles/Daniklab2.dir
+D:/AllLabs/Daniklab2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/AllLabs/Daniklab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

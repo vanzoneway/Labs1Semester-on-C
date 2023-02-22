@@ -1,0 +1,15 @@
+# ninja log v5
+1	225	6976330063356117	CMakeFiles/NewSemester.dir/main.c.obj	af066a7bc936788e
+227	476	6976330065806315	NewSemester.exe	aca5286ae400078d
+4	144	6976330557278442	CMakeFiles/NewSemester.dir/main.c.obj	af066a7bc936788e
+144	341	6976330559178848	NewSemester.exe	aca5286ae400078d
+4	172	6976340734420354	CMakeFiles/NewSemester.dir/main.c.obj	af066a7bc936788e
+173	449	6976340737145209	NewSemester.exe	aca5286ae400078d
+5	167	6976342126019407	CMakeFiles/NewSemester.dir/main.c.obj	af066a7bc936788e
+167	409	6976342128339532	NewSemester.exe	aca5286ae400078d
+4	154	6976352106882854	CMakeFiles/NewSemester.dir/main.c.obj	af066a7bc936788e
+155	398	6976352109243026	NewSemester.exe	aca5286ae400078d
+4	166	6976353882008557	CMakeFiles/NewSemester.dir/main.c.obj	af066a7bc936788e
+166	345	6976353883728651	NewSemester.exe	aca5286ae400078d
+7	170	6976354356067615	CMakeFiles/NewSemester.dir/main.c.obj	af066a7bc936788e
+170	368	6976354357977754	NewSemester.exe	aca5286ae400078d

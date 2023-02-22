@@ -1,0 +1,10 @@
+﻿  first.c
+D:\AllLabs\Lab1\Lab1\first.c(7,12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\AllLabs\Lab1\Lab1\first.c(50,22): warning C4305: функция: усечение из "double" в "float"
+D:\AllLabs\Lab1\Lab1\first.c(52,22): warning C4305: функция: усечение из "double" в "float"
+D:\AllLabs\Lab1\Lab1\first.c(54,22): warning C4305: функция: усечение из "double" в "float"
+D:\AllLabs\Lab1\Lab1\first.c(63,31): warning C4145: ||: использование выражения с оператором отношения в качестве выражения для выбора вариантов; возможное смешение с "|"
+D:\AllLabs\Lab1\Lab1\first.c(71,31): warning C4145: ||: использование выражения с оператором отношения в качестве выражения для выбора вариантов; возможное смешение с "|"
+D:\AllLabs\Lab1\Lab1\first.c(78,31): warning C4145: ||: использование выражения с оператором отношения в качестве выражения для выбора вариантов; возможное смешение с "|"
+D:\AllLabs\Lab1\Lab1\first.c(16): warning C4715: sqrtNum: значение возвращается не при всех путях выполнения
+  Lab1.vcxproj -> D:\AllLabs\Lab1\x64\Debug\Lab1.exe

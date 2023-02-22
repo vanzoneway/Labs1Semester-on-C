@@ -1,0 +1,10 @@
+//
+// Created by PC on 14.01.2023.
+//
+
+#ifndef PREPARETOEXAM_GOODINPUTS_H
+#define PREPARETOEXAM_GOODINPUTS_H
+
+#endif //PREPARETOEXAM_GOODINPUTS_H
+
+int goodScanfInt();
